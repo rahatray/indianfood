@@ -96,7 +96,7 @@ if ( ! defined( 'DIR_STORAGE' ) ) {
  * NO TRAILING SLASH!
  */
 if ( ! defined( 'DIR_PUBLIC' ) ) {
-    define( 'DIR_PUBLIC', 'public' );
+    define( 'DIR_PUBLIC', 'public_html' );
 }
 
 /*
